@@ -24,6 +24,8 @@ transactions.get("/", async (req, res) => {
   // SHOW
   transactions.get("/:id", async (req, res) => {
     const { id } = req.params;
+    console.log("show page get request")
+    console.log(id)
     const transaction = await getTransaction(id);
     if (transaction) {
       res.json(transaction);
