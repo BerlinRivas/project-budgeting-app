@@ -1,5 +1,5 @@
 # Full Stack Budgeting App
-#LINK TO THE FRONT-END: (https://github.com/BerlinRivas/project-budgeting-app-front-end)
+# LINK TO THE FRONT-END: (https://github.com/BerlinRivas/project-budgeting-app-front-end)
 
 Budgtr is an application where people can log their financial transactions. Building this application will require you to bring together all you've learned about JavaScript, building websites, React, servers and RESTful routes.
 
